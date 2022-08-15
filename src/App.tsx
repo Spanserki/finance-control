@@ -1,13 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { GlobalStyle } from "./styles/global";
 
-function App() {
+export function App() {
   return (
     <div className="App">
       <h1>Hello Word!</h1>
+      <GlobalStyle/>
     </div>
   );
 }
 
-export default App;
