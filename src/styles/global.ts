@@ -12,7 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     --text-title: #363f5f;
     --text-body: #969cb3;
 
-    --shape: #ffffff
+    --shape: white;
 }
 
 * {
@@ -28,10 +28,11 @@ html {
     @media(max-width: 720px) {
         font-size: 87.5%;
     }
+    background-color: #F0F2F5;
 }
 
 body {
-    background-color: --background;
+    background: --shape;
     -webkit-font-smoothing: antialiased;
 }
 
