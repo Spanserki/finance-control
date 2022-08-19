@@ -15,7 +15,6 @@ export function Header({onOpenNewTransactionModal}: tipos) {
                  <button onClick={onOpenNewTransactionModal}>
                     Nova transação</button>
             </Content>
-            
         </Container>
     )
 }
