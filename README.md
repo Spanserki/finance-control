@@ -2,8 +2,6 @@
 
 <hr/>
 
-<h3>Seja bem-vindo</h3>
-
 <p>Nesse projeto foi usado React.Js com TypeScript e Styled Components</p>
 
 <h3>Objetivo</h3>
