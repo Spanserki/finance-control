@@ -1,8 +1,13 @@
-<h2> Controle de finanças :moneybag:</h2>
+<h2> Finance Control :moneybag:</h2>
 
-<hr/>
+<h3>Be welcome :raised_hand_with_fingers_splayed:</h3>
 
-<p>Nesse projeto foi usado React.Js com TypeScript e Styled Components</p>
+#Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
 
 <h3>Objetivo</h3>
 
@@ -18,6 +23,6 @@ a medida que você vai adicionando a aplicação calcula para você automaticame
   
 <h3>Veja aqui um exemplo ao adicionarmos um dinheiro recebido e quanto ficou faltando para pagar a dívida</h3>
 
-  <div>
+<div>
   <img src="https://user-images.githubusercontent.com/97187822/191386912-97fed610-4706-4a82-98d0-ead6e25bf7cc.gif" />
-  </div>
+</div>
